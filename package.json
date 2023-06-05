@@ -1,0 +1,14 @@
+{
+  "name": "natour",
+  "version": "1.0.0",
+  "description": "landing page for natour",
+  "main": "index.js",
+  "scripts": {
+    "Compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "davv",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
